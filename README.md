@@ -53,7 +53,10 @@ To create and activate the virtual environment (venv) and install the required p
 
 ```
 python -m venv venv 
+# if using Command Prompt:
 venv\Scripts\activate.bat
+# if using Windows Powershell
+venv\Scripts\activate.ps1
 pip install -r requirements.txt
 ```
 
