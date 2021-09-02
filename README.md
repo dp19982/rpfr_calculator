@@ -40,7 +40,7 @@
 
 To download the code, either download as a .zip file, or if you have Git installed, run:
 ```
-git clone https://github.com/acse-2020/acse2020-acse9-finalreport-acse-dp1820.git
+git clone https://github.com/endevor-music/rpfr_calculator.git
 ```
 
 To be on the safe side, ensure you are in the root directory before creating/activating a virtual environment.
