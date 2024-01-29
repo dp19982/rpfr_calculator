@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 acse-dp1820, dp19982
+Copyright (c) 2021 acse-dp1820, dpatelev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
